@@ -7,6 +7,7 @@ Data Analysis:
   In this project, I integrated SQL queries and Python code within a Jupyter notebook environment to explore a dataset sourced from Kaggle. Leveraging SQLAlchemy and Pandas, I connected to a MySQL database and conducted exploratory data analysis. Through Matplotlib, I     
   visualized key insights, empowering HR teams to make informed decisions regarding employee retention strategies.
 
-2. [AirBnB Listing Analysis](https://github.com/anniecnchang/data-analysis-projects/blob/main/AirBnB%20Listing%20Analysis.ipynb)
+Python Projects:
+1. Breakout Game [Link to Breakout Project Code](path/to/breakout.py) | [Link to Breakout Graphics Project Code](path/to/breakout_graphics.py)
 
-Python Programming:
+   The breakout game is a classic arcade game implemented in Python, featuring interactive gameplay where players control a paddle to bounce a ball and break bricks.
