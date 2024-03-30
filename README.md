@@ -10,7 +10,7 @@
 
 
 **Python Programming:**
-1. Breakout Game: [Breakout Project Code](path/to/breakout.py) | [Breakout Graphics Project Code](path/to/breakout_graphics.py)
+1. Breakout Game: [Breakout Project Code](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakout.py) | [Breakout Graphics Project Code](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakoutgraphics.py)
 
    The breakout game is a classic arcade game implemented in Python, featuring interactive gameplay where players control a paddle to bounce a ball and break bricks.
 
