@@ -1,7 +1,7 @@
 
 # Annie's Personal Projects
 
-Data Analysis:
+**Data Analysis:**
 
 1. [Employee Attrition Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Employee%20Attrition%20Analysis.ipynb)
 
@@ -9,7 +9,7 @@ Data Analysis:
    visualized key insights, empowering HR teams to make informed decisions regarding employee retention strategies.
 
 
-Python Projects:
+**Python Projects:**
 1. Breakout Game: [Breakout Project Code](path/to/breakout.py) | [Breakout Graphics Project Code](path/to/breakout_graphics.py)
 
    The breakout game is a classic arcade game implemented in Python, featuring interactive gameplay where players control a paddle to bounce a ball and break bricks.
