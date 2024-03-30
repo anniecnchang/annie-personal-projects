@@ -9,7 +9,7 @@
    I visualized key insights, empowering HR teams to make informed decisions regarding employee retention strategies.
 
 
-**Python Projects:**
+**Python Programming:**
 1. Breakout Game: [Breakout Project Code](path/to/breakout.py) | [Breakout Graphics Project Code](path/to/breakout_graphics.py)
 
    The breakout game is a classic arcade game implemented in Python, featuring interactive gameplay where players control a paddle to bounce a ball and break bricks.
