@@ -17,4 +17,4 @@ Python Projects:
 2. [Baby Names](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babygraphics.py)
 
    The Baby Name Ranking Project presents a dynamic display of baby name popularity over the years.
-   ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babynameranking.png){:height="50px" width="50px"}
+   ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babynameranking.png){:height="15px" width="15px"}
