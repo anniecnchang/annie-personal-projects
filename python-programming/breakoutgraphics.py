@@ -4,13 +4,18 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 
 and Jerry Liao.
 
-YOUR DESCRIPTION HERE
+In this project, players are tasked with breaking a wall of bricks using a paddle and
+a bouncing ball. The objective is to clear all the bricks from the screen while preventing
+the ball from falling off the bottom of the window. The BreakoutGraphics class serves as
+the backbone of the game's graphical interface and interactive elements, managing player inputs,
+ball physics, paddle movement, and collision detection with precision and responsiveness.
 """
+
 from campy.graphics.gwindow import GWindow
 from campy.graphics.gobjects import GOval, GRect, GLabel
 from campy.gui.events.mouse import onmouseclicked, onmousemoved
 import random
-from campy.gui.events.timer import pause
+
 
 BRICK_SPACING = 5      # Space between bricks (in pixels). This space is used for horizontal and vertical spacing
 BRICK_WIDTH = 40       # Width of a brick (in pixels)

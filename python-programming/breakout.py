@@ -4,12 +4,14 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
 and Jerry Liao.
 
-YOUR DESCRIPTION HERE
+This code initializes the Breakout game graphics and runs the main game loop.
+It continuously updates the ball's position, checks for collisions, and handles
+events like losing lives. If lives run out, the game resets with a game over message.
 """
 
 from campy.gui.events.timer import pause
 from breakoutgraphics import BreakoutGraphics
-from campy.graphics.gobjects import GOval, GRect, GLabel, GLine
+from campy.graphics.gobjects import GLabel
 
 FRAME_RATE = 10         # 100 frames per second
 NUM_LIVES = 3			# Number of attempts
