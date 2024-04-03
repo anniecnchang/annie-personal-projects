@@ -20,4 +20,4 @@
 
    The Baby Name Ranking Project presents a dynamic display of baby name popularity over the years.
 
-   ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babynamesranking_1.png)
+   ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babynamespic.png)
