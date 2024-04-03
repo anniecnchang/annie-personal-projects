@@ -5,8 +5,7 @@
 
 1. [Employee Attrition Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Employee%20Attrition%20Analysis.ipynb)
 
-   In this project, I integrated SQL queries and Python code within a Jupyter notebook environment to explore a dataset sourced from Kaggle. Leveraging SQLAlchemy and Pandas, I connected to a MySQL database and conducted exploratory data analysis. Through Matplotlib,
-   I visualized key insights, empowering HR teams to make informed decisions regarding employee retention strategies.
+   In this project, I integrated SQL queries and Python code within a Jupyter notebook environment to explore a dataset sourced from Kaggle. Leveraging SQLAlchemy and Pandas, I connected to a MySQL database and conducted exploratory data analysis and utilized Matplotlib      to visualiz key insights. Furthermore, I've conducted hypothesis testing to assess the statistical significance of observed differences, enabling HR teams to make informed decisions regarding employee retention strategies based on reliable and accurate data. 
 
 
 **Python Programming:**
