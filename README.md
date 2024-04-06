@@ -7,7 +7,7 @@
 
    In this project, I integrated SQL queries and Python code within a Jupyter notebook environment to explore a dataset sourced from Kaggle. Leveraging SQLAlchemy and Pandas, I connected to a MySQL database and conducted exploratory data analysis and utilized Matplotlib      to visualiz key insights. Furthermore, I've conducted hypothesis testing to assess the statistical significance of observed differences, enabling HR teams to make informed decisions regarding employee retention strategies based on reliable and accurate data.
    
-   ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/employeeattrition.png)
+   ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/employeeattritionpic.png)
 
 
 3. [Emergency 911 Calls Exploratory Data Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Emergency%20911%20Calls%20Exploratory%20Data%20Analysis.ipynb)
