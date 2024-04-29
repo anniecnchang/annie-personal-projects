@@ -1,4 +1,7 @@
 """
+File: breakoutgraphics.py
+Name: Annie
+--------------------------
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 
