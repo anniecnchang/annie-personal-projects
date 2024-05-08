@@ -8,6 +8,7 @@
 | <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/amazon.png" alt="Alt text" width="15" height="15"> [Amazon Product Exploratory Data Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Amazon%20Products%20Exploratory%20Data%20Analysis.ipynb) | SQL, Python | This project analyzed Amazon sales, discounts, and ratings, this study identifies high-performing product categories. Businesses can leverage these insights to optimize resources and drive growth in the competitive e-commerce landscape.
 | <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/employee.png" alt="Alt text" width="18" height="18"> [Employee Attrition Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Employee%20Attrition%20Analysis.ipynb) | SQL, Python | The employee attrition analysis project identified turnover factors, considering their costly implications. By analyzing employee data, HR teams gain insights into issues like company culture and job satisfaction, enabling proactive measures to increase retention. |
 
+
 ---
 
 **Python Programming:**
