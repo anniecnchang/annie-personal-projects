@@ -3,12 +3,13 @@
 
 **Data Analysis:**
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/amazon.png" alt="Alt text" width="15" height="15"> [Amazon Product Exploratory Data Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Amazon%20Products%20Exploratory%20Data%20Analysis.ipynb) | Data analysis, data cleaning, product analysis | In this project, I connected the local PostgreSQL to Jupyter notebook environment via SQLAlchemy in order to utilize both SQL and Python to complete the analysis. I mainly leveraged pandas to complete data validation and cleaning, then utilized SQL to conduct exploratory data analysis to determine top-performing categories and products. Furthermore, hypothesis testing is conducted to confirm statistical significance of the findings along with practical significance of the data.
-| <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/employee.png" alt="Alt text" width="18" height="18"> [Employee Attrition Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Employee%20Attrition%20Analysis.ipynb) | People analytics | In this project, I integrated SQL queries and Python code within a Jupyter notebook environment to explore a dataset sourced from Kaggle. Leveraging SQLAlchemy and Pandas, I connected to a MySQL database and analyzed multiple employee attrition factors and utilized Matplotlib to visualiz key insights, enabling HR teams to make informed decisions regarding employee retention strategies based on reliable and accurate data. |
+| Project Link | Area of Analysis | Project Description | Skills
+|---|---|---|---|
+| <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/amazon.png" alt="Alt text" width="15" height="15"> [Amazon Product Exploratory Data Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Amazon%20Products%20Exploratory%20Data%20Analysis.ipynb) | Data analysis, data cleaning, product analysis | In this project, I connected the local PostgreSQL to Jupyter notebook environment via SQLAlchemy in order to utilize both SQL and Python to complete the analysis. I mainly leveraged pandas to complete data validation and cleaning, then utilized SQL to conduct exploratory data analysis to determine top-performing categories and products. Furthermore, hypothesis testing is conducted to confirm statistical significance of the findings along with practical significance of the data. | SQL, Python |
+| <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/employee.png" alt="Alt text" width="18" height="18"> [Employee Attrition Analysis](https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/Employee%20Attrition%20Analysis.ipynb) | People analytics | In this project, I integrated SQL queries and Python code within a Jupyter notebook environment to explore a dataset sourced from Kaggle. Leveraging SQLAlchemy and Pandas, I connected to a MySQL database and analyzed multiple employee attrition factors and utilized Matplotlib to visualiz key insights, enabling HR teams to make informed decisions regarding employee retention strategies based on reliable and accurate data. | SQL, Python |
 
 ---
+
 **Python Programming:**
 
 | Project Link | Example | Project Description | 
