@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/portfolio.png" alt="Alt text" width="45" height="45"> Annie's Personal Projects
+# <img src="https://github.com/anniecnchang/annie-personal-projects/blob/main/data-analysis/port.png" alt="Alt text" width="45" height="45"> Annie's Personal Projects
 
 **Data Analysis:**
 
