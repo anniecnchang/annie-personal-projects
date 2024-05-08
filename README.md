@@ -11,6 +11,11 @@
 
 ---
 
+**Data Visualization:**
+Work in Progress!
+
+---
+
 **Python Programming:**
 
 | Project Link | Example | Project Description | 
