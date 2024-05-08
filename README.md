@@ -12,5 +12,7 @@
 
 | Project Link | Example | Project Description | 
 |---|---|---|
-| Breakout Game: [Breakout Project Code](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakout.py)\n[Breakout Graphics Project Code](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakoutgraphics.py) | ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakoutpic.png) | The breakout game is a classic arcade game implemented in Python, featuring interactive gameplay where players control a paddle to bounce a ball and break bricks.
+| Breakout Game: 
+[Breakout Project Code](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakout.py)
+[Breakout Graphics Project Code](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakoutgraphics.py) | ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/breakoutpic.png) | The breakout game is a classic arcade game implemented in Python, featuring interactive gameplay where players control a paddle to bounce a ball and break bricks.
 | 👩 [Baby Names](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babygraphics.py) | ![Image Alt Text](https://github.com/anniecnchang/annie-personal-projects/blob/main/python-programming/babynamespic.png) | The Baby Name Ranking Project presents a dynamic display of baby name popularity over the years. |
