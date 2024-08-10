@@ -20,6 +20,6 @@
 
 ---
 
-**Data Visualizations:**
+**Data Visualization:**
 [Tableau Public](https://public.tableau.com/app/profile/annie.chang7212/vizzes)
 
